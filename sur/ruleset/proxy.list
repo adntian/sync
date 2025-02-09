@@ -53,5 +53,6 @@ DOMAIN-SUFFIX,nssurge.com,PROXY
 DOMAIN-SUFFIX,potato.us.tarolink.top,PROXY
 DOMAIN-SUFFIX,app.safe.global,PROXY
 DOMAIN-SUFFIX,chaininsight.vip,PROXY
+DOMAIN-SUFFIX,ave.ai,PROXY
 
 IP-CIDR,155.133.7.143/32,PROXY
