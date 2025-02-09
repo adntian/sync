@@ -54,4 +54,4 @@ payload:
 	- '+.potato.us.tarolink.top'
 	- '+.app.safe.global'
 	- '+.chaininsight.vip'
-	- '+.ave.ai'
+	- '+.aveipcheck.xyz'
