@@ -55,3 +55,4 @@ payload:
 	- '+.app.safe.global'
 	- '+.chaininsight.vip'
 	- '+.aveipcheck.xyz'
+	- '+.gmgn.ai'
