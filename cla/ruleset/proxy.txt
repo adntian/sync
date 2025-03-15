@@ -56,3 +56,4 @@ payload:
 	- '+.chaininsight.vip'
 	- '+.aveipcheck.xyz'
 	- '+.gmgn.ai'
+	- '+.api.jup.ag'
