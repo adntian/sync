@@ -56,5 +56,6 @@ DOMAIN-SUFFIX,chaininsight.vip,PROXY
 DOMAIN-SUFFIX,aveipcheck.xyz,PROXY
 DOMAIN-SUFFIX,gmgn.ai,PROXY
 DOMAIN-SUFFIX,api.jup.ag,PROXY
+DOMAIN-SUFFIX,www.googleadservices.com,PROXY
 
 IP-CIDR,155.133.7.143/32,PROXY
