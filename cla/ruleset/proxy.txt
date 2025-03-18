@@ -57,3 +57,4 @@ payload:
 	- '+.aveipcheck.xyz'
 	- '+.gmgn.ai'
 	- '+.api.jup.ag'
+	- '+.www.googleadservices.com'
