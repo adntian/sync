@@ -10,3 +10,5 @@ DOMAIN-SUFFIX,four.meme,PROXY
 DOMAIN-SUFFIX,babylonlabs.io,PROXY
 DOMAIN-SUFFIX,babylon.foundation,PROXY
 DOMAIN-SUFFIX,kolscan.io,PROXY
+
+DOMAIN-SUFFIX,alkalimakersuite-pa.clients6.google.com,PROXY
