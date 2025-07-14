@@ -16741,7 +16741,7 @@ ztedevices.com
 .linotype.com
 .linseysworld.com
 .linst.ac.uk
-.linux.do
+# .linux.do
 .linux.org
 .linux.org.hk
 .linuxfoundation.org
