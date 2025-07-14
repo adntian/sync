@@ -29,6 +29,7 @@ jobs:
     - name: replace txt
       run: |
         sed -i 's/^\.enterprise\.ac\.uk/# &/g' sur/ruleset/proxy.txt
+        sed -i 's/^\.linux\.do/# &/g' sur/ruleset/proxy.txt
         
     - name: Commit and push changes
       run: |
