@@ -58,3 +58,4 @@ payload:
 	- '+.gmgn.ai'
 	- '+.api.jup.ag'
 	- '+.www.googleadservices.com'
+	- '+.pt.kktwo.me'
