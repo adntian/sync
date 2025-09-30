@@ -59,3 +59,4 @@ payload:
 	- '+.api.jup.ag'
 	- '+.www.googleadservices.com'
 	- '+.pt.kktwo.me'
+	- '+.backpack.exchange'
