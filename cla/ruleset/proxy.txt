@@ -60,3 +60,4 @@ payload:
 	- '+.www.googleadservices.com'
 	- '+.pt.kktwo.me'
 	- '+.backpack.exchange'
+	- '+.anyrouter.top'
