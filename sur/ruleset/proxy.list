@@ -59,5 +59,6 @@ DOMAIN-SUFFIX,api.jup.ag,PROXY
 DOMAIN-SUFFIX,www.googleadservices.com,PROXY
 DOMAIN-SUFFIX,pt.kktwo.me,PROXY
 DOMAIN-SUFFIX,backpack.exchange,PROXY
+DOMAIN-SUFFIX,anyrouter.top,PROXY
 
 IP-CIDR,155.133.7.143/32,PROXY
