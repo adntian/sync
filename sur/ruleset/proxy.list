@@ -60,5 +60,7 @@ DOMAIN-SUFFIX,www.googleadservices.com,PROXY
 DOMAIN-SUFFIX,pt.kktwo.me,PROXY
 DOMAIN-SUFFIX,backpack.exchange,PROXY
 DOMAIN-SUFFIX,anyrouter.top,PROXY
+DOMAIN-SUFFIX,zklighter.elliot.ai,PROXY
+DOMAIN-SUFFIX,lighter.xyz,PROXY
 
 IP-CIDR,155.133.7.143/32,PROXY
