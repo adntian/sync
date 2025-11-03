@@ -61,3 +61,5 @@ payload:
 	- '+.pt.kktwo.me'
 	- '+.backpack.exchange'
 	- '+.anyrouter.top'
+	- '+.zklighter.elliot.ai'
+	- '+.lighter.xyz'
