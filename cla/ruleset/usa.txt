@@ -3,6 +3,7 @@ payload:
 	- '+.openai.com'
 	- '+.chatgpt.com'
 	- '+.claude.ai'
+	- '+.anthropic.com'
 	- '+.grazie.ai'
 	- '+.cdn.oaistatic.com'
 	- '+.grazie.aws.intellij.net'
