@@ -63,3 +63,5 @@ payload:
 	- '+.anyrouter.top'
 	- '+.zklighter.elliot.ai'
 	- '+.lighter.xyz'
+	- '+.qzz.io'
+	- '+.eu.cc'
