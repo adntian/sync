@@ -65,3 +65,5 @@ payload:
 	- '+.lighter.xyz'
 	- '+.qzz.io'
 	- '+.eu.cc'
+	- '+.us.ci'
+	- '+.huan666.de'
