@@ -67,3 +67,4 @@ payload:
 	- '+.eu.cc'
 	- '+.us.ci'
 	- '+.huan666.de'
+	- '+.net.tarolink.top'
