@@ -18,3 +18,4 @@ payload:
 	- '+.questn.com'
 	- '+.magiceden.io'
 	- '+.gradient.network'
+	- '+.daily-cloudcode-pa.googleapis.com'
