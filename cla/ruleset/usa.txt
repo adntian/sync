@@ -19,3 +19,4 @@ payload:
 	- '+.magiceden.io'
 	- '+.gradient.network'
 	- '+.daily-cloudcode-pa.googleapis.com'
+	- '+.openrouter.ai'
