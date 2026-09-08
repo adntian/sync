@@ -20,3 +20,5 @@ payload:
 	- '+.gradient.network'
 	- '+.daily-cloudcode-pa.googleapis.com'
 	- '+.openrouter.ai'
+	- '+.clientservices.googleapis.com'
+	- '+.oauthaccountmanager.googleapis.com'
