@@ -21,3 +21,5 @@ DOMAIN-SUFFIX,gradient.network,PROXY
 DOMAIN-SUFFIX,daily-cloudcode-pa.googleapis.com,PROXY
 
 DOMAIN-SUFFIX,openrouter.ai,PROXY
+DOMAIN-SUFFIX,clientservices.googleapis.com,PROXY
+DOMAIN-SUFFIX,oauthaccountmanager.googleapis.com,PROXY
