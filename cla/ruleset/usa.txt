@@ -22,3 +22,4 @@ payload:
 	- '+.openrouter.ai'
 	- '+.clientservices.googleapis.com'
 	- '+.oauthaccountmanager.googleapis.com'
+	- '+.oauth2.googleapis.com'
